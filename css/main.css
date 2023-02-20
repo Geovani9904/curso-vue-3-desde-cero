@@ -13,18 +13,18 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: darkslateblue;
+  background-color: rgb(69, 57, 148);
   font-size: 1.3rem;
 }
 
 /* Content */
 .content {
-  background-color: lightgrey;
+  background-color: rgb(219, 219, 219);
   width: 768px;
   max-width: 768px;
   padding: 3rem;
-  box-shadow: 2px 2px 3px gray;
-  border-radius: 1rem;
+  box-shadow: 2px 2px 3px rgb(18, 101, 255);
+  border-radius: 3rem;
 }
 
 .content__title {
@@ -47,7 +47,7 @@ body {
 /* Result */
 .result {
   position: relative;
-  background-color: purple;
+  background-color: rgb(155, 5, 255);
   border-radius: 0.3rem;
   box-shadow: 2px 2px 3px gray;
   color: white;
